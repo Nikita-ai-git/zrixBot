@@ -1,0 +1,20 @@
+venv
+vector_store
+tmp
+# Ignore Python venv and data
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Chroma or LanceDB storage
+vector_store/
+tmp/
+*.sqlite3
+
+# Ignore local config or secrets
+.env
+*.log
+
+# VS Code workspace
+.vscode/
