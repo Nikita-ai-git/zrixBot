@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+pandas
+Pillow
+SQLAlchemy
+google-generativeai
+langchain
+langchain-openai
+langchain-community
+openpyxl
+sqlglot
+openai
+faiss-cpu
