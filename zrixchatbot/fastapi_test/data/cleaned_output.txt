@@ -1,0 +1,1027 @@
+Website Scraping Report
+Page
+Greenfinch Global Consulting | Unified Lending Services in India
+Skip to content
+Greenfinch Global Consulting
+Unified Lending Service Utility
+Get Started
+The journey so far
+Fully Operative 4 Service Companies
+Technical, Legal, Credit
+and Debt Management Services
+Grass root reach
+Serving currently 7990 pin codes and reaching 14228 in next few month
+Nationwide Presence
+Fully Operative 19 Regional offices at all State Capital and 20 Area offices
+World Class Tech
+Unified Lending Services Platform powered by Salesforce, developed with Deloitte
+In-house Work Force
+40 VP and Partners (each with 10-15 BFSI Yrs exp.) with 450 team members nationwide
+Revolutionising Financial Services
+Founded by Mr. Sushil Kumar Agarwal, a renowned leader in the BFSI domain, Greenfinch Global Consulting (GFGC) is an innovation born out of exemplary vision, expertise & experience
+GFGC aims to revolutionize the Indian Lending Industry with a groundbreaking unified lending services utility
+Our one-of-a-kind offering integrates field services across multiple domains with cutting edge technology platform, serving key requirements of lending institutions such as Banks and NBFCs at Pan-India Level
+Current Industry Landscape
+Loans worth 1 Lakh+ Cr processed annually by Financial Institutions (FIs)
+12-17% of loan amount is spent on processing of a loan
+15000+ small local vendors cater to FIs  requirements in addition to the in-house teams
+Services Required by FIs for Loan Processing & Management
+Credit & Background Check
+Field Investigation
+API Checks
+(Credit History,
+Identity Verification,
+Employment Proof
+GST/ITR etc.)
+Property Check (For Mortgage Loans)
+Property Valuation
+Legal Check & Title Search
+Post - Loan
+Collections
+In-house team & external vendors both pose significant challenges & inefficiencies
+Concerns with In-house Team
+Utilization
+Not enough volumes apart from Tier 1 locations
+P&L Impact
+Income amortised but not expenses impacting Bottom Line*
+Concerns with Outsourcing to Local Vendors
+Quality
+Lack of experience, knowledge & SLA levels
+Governance
+No systems and controls in place at vendor s level
+Time to Scale
+New vendors need to be identified before opening any branch
+Efficiency
+Technology not leveraged at vendor level
+Control
+Vendor Management done typically at local branch level
+Revolutionary Solution through GFGC
+Strong bottom-up experience, years of execution excellence, financial prudence & visionary outlook has been the
+genesis of GFGC, which not only provides one-stop solution to
+all of industry concerns but also additional value through its offerings
+Platform Offerings (Corporate)
+Lenders Engineers/ Independent Engineer, Chartered Engineer Certification, Project Cost Vetting
+Project Appraisals and Monitoring, Valuation of Real Estate/Plant & Machinery, Technical Opinion & Audits
+Due Diligence on
+NBFC/HFC/Financial Institution, Portfolio Purchase/DA/PTC Due Diligence
+Business & Strategic Risk Advisory, Portfolio & Property papers verification, Charge assurance
+Platform Offerings (Retail)
+Field Visit
+Credit FI, Technical Valuation, Legal Check, Collections
+Augmented Checks through API services for Identity, Banking & ITR, Credit History, Fraud Risk, etc
+Value Added Services such as Green Home and ESG Consultancy
+Consulting Services for Operations Management and Policy
+Differentiating Factors for GFGC
+Experienced
+Team
+Pan-India Distribution
+World-Class
+Technology
+Governance Framework
+Execution Excellence
+Led by Unmatched Experience (1/2)
+Mr. Sushil Kumar Agarwal
+Founder & Managing Director
+24+ years of rich experience in the financial industry as an entrepreneur and leader with forte in creating & running different businesses with top-class execution
+Ex-Founder MD & CEO of Aavas Financiers Ltd., a publicly-listed affordable HFC, taking the company to 15000 Cr AUM under his leadership
+Prior experience in senior leadership roles with AU Small Finance Bank, ICICI Bank Limited, and Kotak Mahindra Prime Limited
+Awarded  EY Entrepreneur of The Year 2020  in the Financial Services category
+CA Gold Medallist and Merit Holder | Qualified Company Secretary
+Completed Owner/President Management Program (OPM) from Harvard Business School
+Chapter Chair of Young President Organization (YPO), Rajasthan Chapter
+Forte in creating & running different businesses with top-class execution
+Led by Unmatched Experience (2/2)
+Co-founders
+Mr. Abhishek Tiwari
+CEO, GFGC
+Mr. Arvind Tungaria
+COO, GFGC
+Mr. Apurv Bordia
+CTO, GFGC
+Mr. Naveen Sharma
+CIO, GFGC
+Mr. Rajeev Sardana
+Sr. Director Strategy & Planning, GFGC
+Mr. Satish K Chadha
+Advisor, GFGC
+Dr. Amit Kumar Dass
+CEO, GREEC
+Mr. Amit Jain
+CEO, GFTP
+Mr. Lokesh Rawat
+Partner, GFLS
+Led by Unmatched Experience
+Name
+Designation
+Total Yrs of Experience
+Previously worked with
+Dr. Amit Kumar Dass
+ICICI Bank, Indiabulls, Aavas Financiers Limited
+Amit Jain
+AU Bank, Religare, GE, Indiabulls
+Vinay Sharma
+Partner
+AU Bank, DHFL, RBL, DMI, MS, CHOLA
+Lokesh Rawat
+Partner
+Aavas Financiers and Capri Global
+Saurin Khatani
+Partner
+Utkarsh Jana SFB, Clix Capital, DHFL, HDB
+Harshit Jain
+Partner
+AU BANK, Tata Capital Housing, DHFL
+Anuj Lashkary
+Partner
+ICICI Bank
+Vikas Kumar Patel
+Partner
+Aavas Financiers Limited, Edelweiss Home Finance, TATA Capital
+Pankaj Narang
+Partner
+Umeed HFC, AU Bank, Indiabulls, HDB
+Rakesh Singh Tanwar
+Partner
+Aavas Financiers Limited
+Krishna Kant Tyagi
+Partner
+Aavas Financiers Limited, Namdev Home Finance
+Ankur Tyagi
+Partner
+ICICI Bank
+Chanchal Pravin
+Partner
+Aavas Financiers Limited
+Vignesh Somasundaram
+Partner
+Hitech Valuers LLP
+Abhilash Dubey
+Partner
+Globus Engineers, Aavas Financiers Limited
+Paras Sood
+Partner
+Formulic
+Anantapatnaikuni Sravankumar
+Partner
+Piramal Finance
+Nitin Kumar Chaubay
+Vice-President
+AU Bank
+Hardeep Singh Hora
+Vice-President
+Mahindra Finance, Aavas Financers Limited
+Suhej Patel Mohammed
+Vice-President
+ICICI Bank, TATA Capital, IIFL, Edelweiss Home Finance
+Rohit Vyas
+Vice-President
+IDFC, DHFL, CHOLA, VASTU
+Ashlesha Dattatraya Abanave
+Vice-President
+ICICI Bank, RBSA, Muthoot Home Finance, Creative Valuation
+Krovvidi Sriram Manohar
+Vice-President
+Practicing with High Court Vijaywada and Rajmundri
+Prafull Nagar
+Vice-President
+Aavas Financiers Limited
+Faizan Khan
+Vice-President
+Rashi Design Soluation, Laxmi India Finance
+Pulkit Singh
+Vice-President
+PS Architect & Consultants
+Somendra Jangid
+Vice-President
+Aavas Financiers Limited
+Kaivalya Ravindra Lohokare
+Vice-President
+Adv. Rohit and LLM From University of Law, London
+Chandradeep Arya
+Vice-President
+Formulic, USP Valuation
+Akash Sharma
+Vice-President
+AU Bank
+Vikas Ratan Kale
+Vice-President
+Patwardhan Consultants Private Limited, Piramal Capital and Housing Finance Limited
+Sachin Parmar
+Vice-President
+Harwani Engineers & Associates Private Limited
+Saloni Sharma
+Vice-President
+IIFL Home loans, SK Finance, Sewa Grh Ltd
+Tushar Kumar
+Vice-President
+Srihanu Law, AU Bank, Svatantra Microfinance, NAV Bank
+Ved Prakash Pareek
+Vice-President
+Aavas Financiers & Hero Housing & Dilip Sharma and associates
+Tanish Jaiswal
+Vice-President
+Apco Infratech Private Limited, Hinduja Housing Finance, Piramal Housing Finance
+Gemballi Satya Manikanta
+Vice-President
+RK Associates
+Chitrasen Kuntal
+Vice-President
+Aavas Financiers Limited
+Shyam Pancholi
+Vice-President
+Griham, AU Bank
+Himanshu Chhabra
+Vice-President
+Formulic, P&A Valutech
+Vikas Jangid
+Vice-President
+Formulic
+Vishal Singh Rao
+Vice-President
+HDFC, AU Bank
+Our Clientele
+Pan-India Distribution
+GFGC aims to have a unique pan-India setup unheard of in the vendor ecosystem which will help FIs to
+Reach under-penetrated locations
+Scale up with speed and low cost
+Manage a single vendor centrally for all locations with control, transparency & ease
+Have standardized process, quality and reliability across locations
+14000+ Pin Codes to be covered through 186 Locations
+19 Regional HQs
+31 Branch Offices
+136 Last-Mile Service Point
+Presence in 18 states
+Rajasthan
+Haryana
+Uttarakhand
+Delhi & NCR
+Karnataka
+Madhya Pradesh
+Uttar Pradesh
+Gujarat
+Maharashtra
+Punjab
+Telangana
+Andhra Pradesh
+Tamil Nadu
+Chhattisgarh
+West Bengal
+Bihar
+Kerala
+Odisha
+Our Branch Locations
+State
+Select State
+City
+Select City
+World-Class Technology & Governance Framework
+GFGC has partnered with Deloitte for developing a best-in-class platform for its services
+The platform is being developed with the industry-leading platform Salesforce at its heart, integrated with multiple software and API services
+This will enable GFGCs internal team to work completely online in sync with real-time services and also help FIs digitize their outsourced services through integration with the GFGC system
+Striving for service excellence, the system architecture has been meticulously designed and benchmarked with the best service provider applications across various industries
+Additionally, the system is compliant with all regulations including Data Security, Data Privacy, IT, RBI and other regulations applicable for FIs from Day 1
+With the system, FIs get complete transparency and tracking of their transactions with the comfort of meeting all data compliance requirements
+Execution Excellence
+With the same experience, GFGC s
+corporate structure has been put in place from Day 1 to ensure effective execution, control and oversight
+GFGC s founding team has a proven track record of scaling businesses in the lending industry from incubation to large scale (over 1 lakh transactions)
+The structure reinforces SOPs, checks and balances essential for execution excellence in the domain and also provides multiple monitoring and escalation points
+Our Vision
+At GFGC, our vision is to revolutionize the industry by creating new benchmarks of service and technology, along with solving a large governance & compliance problem of the industry
+Introduce  Quick Commerce  to BFSI
+Un-paralleled TAT for onboarding & Services
+TAT for Field Services vis- -vis distance from office
+Within 3 kms   1 Hr
+Within 25 kms   6-8 Hrs
+25 to 50 Kms   24 Hrs
+Above 50 Kms   48 Hrs
+1 Hr TAT for onboarding of FI Partner with initiation of service
+1 Hr TAT for adding a service (available through APIs) on our platform and make it available to FI Partners
+1 Hr TAT for any modifications handling
+Build India s Largest Consulting & Processing Capability
+One-stop solution provider for all services across India
+On Field and Digital
+Strategic and Operational
+Process and Technology
+Focus on Execution with High Quality and Speed
+Additional Value to FI Partners based on learnings of the Leadership Team & Partners
+Aim to set-up a Global Consulting Center and grow to
+1 Lakh+ employees
+with execution expertise across domains
+Our Offices
+Ludhiana
+Zirakpur
+Raipur
+Surat
+Pune
+Agra
+Bikaner
+Mumbai
+Dehradun
+Karnal
+Lucknow
+Beawar
+Varanasi
+Udaipur
+Jodhpur
+Bangalore
+Rudhrapur
+Rajkot
+Ahmedabad
+Indore
+Hyderabad
+Bhopal
+Tirupati
+Ludhiana
+Ghaziabad
+Raipur
+Bikaner
+Mumbai
+Zirakpur
+Dehradun
+Udaipur
+Ahmedabad
+Hyderabad
+Bangalore
+Chennai
+Karnal
+Indore
+Jodhpur
+Pune
+Surat
+Lucknow
+Beawar
+Rudhrapur
+Agra
+Bhopal
+Tirupati
+Rajkot
+Varanasi
+Vijaywada
+Bhubaneshwar
+Disclaimers
+GFGC or Greenfinch refers to Greenfinch Global Consulting Private Limited, its network of firms and related entities for the purpose of this Presentation
+This presentation is intended for information purposes only, is shared on a confidential basis and is an expression of strategy that may be subject to change without notice. Recipients/attendees of this presentation agree that they will keep confidential all non-public information contained herein; and will not copy/reproduce/distribute this Presentation or information herein to any other party, in whole or in part
+Certain information in this Presentation has been obtained from third-party and publicly available sources. While such sources are reliable, GFGC and its entities do not assume responsibility for accuracy or completeness of such information and does not undertake any obligation to update the information contained herein as of any future date
+The information mentioned in the Presentation is subject to change without prior notice. The Presentation is for discussion purpose only and should not be assumed to be a complete description of GFGC or to contain all the information required by potential partners
+This Presentation contains certain performance goals and benchmark information related to GFGC and its operations. Please note that actual results may vary. The Presentation also contains forward looking statements. Words such as  will ,  aim ,  vision ,  outlook  and other similar expressions are intended to identify such forward looking statements. Forward-looking statements are based on a number of assumptions as to future events that are inherently uncertain and subjective and no representation or warranty is made by GFGC, its network firms and related entities to whether such assumptions or projections will prove to be accurate
+None of GFGC, its network firms or related entities shall be responsible for any loss whatsoever sustained by any person or entity by reason of access to, use of or reliance on, this material. By using this material or any information contained in it, the user accepts this entire notice and terms of use
+Uttar Pradesh
+Agra
+Aligarh Hathras
+Ayodhya
+Azamgarh
+Bareilly
+Fetehpur
+Raibarelli
+Ghaziabad
+Gorakhpur
+Kanpur
+Lucknow
+Meerut
+Moradabad
+Prayagraj
+Saharanpur
+Sitapur
+Varanasi
+Uttar Pradesh
+Agra
+Aligarh Hathras
+Ayodhya
+Azamgarh
+Bareilly
+Fetehpur
+Raibarelli
+Ghaziabad
+Gorakhpur
+Kanpur
+Lucknow
+Meerut
+Moradabad
+Prayagraj
+Saharanpur
+Sitapur
+Varanasi
+Uttar Pradesh
+Agra
+Aligarh Hathras
+Ayodhya
+Azamgarh
+Bareilly
+Fetehpur
+Raibarelli
+Ghaziabad
+Gorakhpur
+Kanpur
+Lucknow
+Meerut
+Moradabad
+Prayagraj
+Saharanpur
+Sitapur
+Varanasi
+Uttar Pradesh
+Agra
+Aligarh Hathras
+Ayodhya
+Azamgarh
+Bareilly
+Fetehpur
+Raibarelli
+Ghaziabad
+Gorakhpur
+Kanpur
+Lucknow
+Meerut
+Moradabad
+Prayagraj
+Saharanpur
+Sitapur
+Varanasi
+Uttar Pradesh
+Agra
+Aligarh Hathras
+Ayodhya
+Azamgarh
+Bareilly
+Fetehpur
+Raibarelli
+Ghaziabad
+Gorakhpur
+Kanpur
+Lucknow
+Meerut
+Moradabad
+Prayagraj
+Saharanpur
+Sitapur
+Varanasi
+Mr. Abhishek Tiwari
+CEO, GFGC
+24+ years of experience in retail lending & insurance distribution
+Previously managed insurance with 2000 Cr premium book at AU Bank
+Prior experience with ICICI Bank
+Chartered Accountant & Law Graduate
+Arvind Tungaria
+COO, GFGC
+20+ years of experience in secured lending and operations
+Previously, National Business Manager for Secured Business Loans (Retail) at AU Bank where he built 5000 Cr SME book
+Prior experience with ICICI Bank, Ruchi Soya & Gujarat Ambuja Exports Ltd
+Chartered Accountant & AMFI certified
+Mr. Apurv Bordia
+CTO, GFGC
+16+ years of experience in technology companies
+Successfully built and exited multiple tech ventures
+MIS in Information Technologies from University of Connecticut, USA. (Major in Informational systems, credit card encryption)
+Mr. Naveen Sharma
+CIO, GFGC
+A Man of Many Hats   Dr. Naveen is not just an entrepreneur; he s a visionary, a writer, a mentor, and a pioneer in the tech industry. With a remarkable portfolio of successful startups ranging from technology companies to Data Centers worldwide, he s a figure who exemplifies innovation and leadership
+Academic Prowess   Dr. Naveen is impressively qualified, holding a Science degree, a law degree specializing in Cyber Law, a Master s in Technology, and a Doctorate in Computer Science. His multidisciplinary background equips him with an exceptional skill set, uniquely positioning him to address challenges in a myriad of industries
+Early Beginnings   The tech wizardry started early for Dr. Naveen. Back in 1996, he developed his first commercial software aimed at predicting stock market trends. A year later, he expanded his scope to web development, delivering a commercial website for a customer in the IT sector
+Trailblazing Innovations   Dr. Naveen s impact on the industry is far-reaching. From developing an enterprise Intranet for Red Hat, one of the US s leading companies in open-source technologies, to creating an AI/ML-based Automated Health Claim Settlement System for a leading US insurance firm, his contributions are pioneering
+Data Centers & Cloud Computing   Recognizing the growing need for data storage in South Asia, Dr. Naveen designed and established the region s first privately-owned Data Centers in Rajasthan India. Not stopping there, he also developed and India s first Local Language Cloud, positioning himself as a leader in Cloud Computing technologies
+Crypto Innovator   In the dynamic world of cryptocurrencies, Dr. Naveen has built software solutions for North America s largest Bitcoin mining data center. His recent venture includes the design and development of a Crypto ATM, a sign of his continuous engagement with cutting-edge technology
+Mr. Rajeev Sardana
+Sr. Director Strategy & Planning, GFGC
+30+ years of experience in secured lending, mortgages, and housing finance operations focusing on underwriting policies, housing finance operations, growth strategies and performance enhancement
+Additional Director (Non-Executive Independent Director) in Poonawalla Fincorp Limited. Non-Executive Director at Delta Brac Housing Finance Corporation and advisor at HDFC Education & Development Services Ltd and current advisor at HDFC Sales Ltd
+Involved in Audit, Nomination and Remuneration, Risk Management, Whistleblower policies and Fraud monitoring companies, member of the Asset-Liability Committee(ALCO) for interest rate decisions
+Consulted for the IFC/HDFC team in establishing housing finance institutions in Bangladesh, Sri Lanka, Pakistan and Tanzania
+Mr. Satish K Chadha
+Advisor, GFGC
+40+ years of experience in Banking & Finance, law and mortgage financing
+Prior experience with NHB as Director-Legal
+Chartered Accountant & Law Graduate
+Dr. Amit Kumar Dass
+CEO, GREEC
+27+ years of experience with Senior Mgmt. Roles in ICICI Bank & Aavas Financiers
+Expertise in Property Advisory services leading pan-India teams
+Pioneer in Green Homes | Panellist in Green India Drive with IFC
+PhD, M.E. & B.E. in Civil Engineering
+Mr. Amit Jain
+CEO, GFTP
+21+ years of experience in Banking & Finance sector
+Having experience of Credit management and managing Secured Business Loans portfolio of 15000 crore AUM
+Prior experience with AU Bank and Religare
+Chartered Accountant
+Mr. Lokesh Rawat
+Partner, GFLS
+14+ years of experience in Legal mortgage service sector
+Expert in property laws, legal scrutiny, due diligence, compliance
+Prior experience with Aavas Financiers, overseeing the legal aspects of property-backed lending
+Advance Management Program from IIM Indore and LLB from Rajasthan University
+Scroll to Top
+Page
+Greenfinch Global Consulting | Unified Lending Services in India
+Skip to content
+Greenfinch Global Consulting
+Unified Lending Service Utility
+Get Started
+The journey so far
+Fully Operative 4 Service Companies
+Technical, Legal, Credit
+and Debt Management Services
+Grass root reach
+Serving currently 7990 pin codes and reaching 14228 in next few month
+Nationwide Presence
+Fully Operative 19 Regional offices at all State Capital and 20 Area offices
+World Class Tech
+Unified Lending Services Platform powered by Salesforce, developed with Deloitte
+In-house Work Force
+40 VP and Partners (each with 10-15 BFSI Yrs exp.) with 450 team members nationwide
+Revolutionising Financial Services
+Founded by Mr. Sushil Kumar Agarwal, a renowned leader in the BFSI domain, Greenfinch Global Consulting (GFGC) is an innovation born out of exemplary vision, expertise & experience
+GFGC aims to revolutionize the Indian Lending Industry with a groundbreaking unified lending services utility
+Our one-of-a-kind offering integrates field services across multiple domains with cutting edge technology platform, serving key requirements of lending institutions such as Banks and NBFCs at Pan-India Level
+Current Industry Landscape
+Loans worth 1 Lakh+ Cr processed annually by Financial Institutions (FIs)
+12-17% of loan amount is spent on processing of a loan
+15000+ small local vendors cater to FIs  requirements in addition to the in-house teams
+Services Required by FIs for Loan Processing & Management
+Credit & Background Check
+Field Investigation
+API Checks
+(Credit History,
+Identity Verification,
+Employment Proof
+GST/ITR etc.)
+Property Check (For Mortgage Loans)
+Property Valuation
+Legal Check & Title Search
+Post - Loan
+Collections
+In-house team & external vendors both pose significant challenges & inefficiencies
+Concerns with In-house Team
+Utilization
+Not enough volumes apart from Tier 1 locations
+P&L Impact
+Income amortised but not expenses impacting Bottom Line*
+Concerns with Outsourcing to Local Vendors
+Quality
+Lack of experience, knowledge & SLA levels
+Governance
+No systems and controls in place at vendor s level
+Time to Scale
+New vendors need to be identified before opening any branch
+Efficiency
+Technology not leveraged at vendor level
+Control
+Vendor Management done typically at local branch level
+Revolutionary Solution through GFGC
+Strong bottom-up experience, years of execution excellence, financial prudence & visionary outlook has been the
+genesis of GFGC, which not only provides one-stop solution to
+all of industry concerns but also additional value through its offerings
+Platform Offerings (Corporate)
+Lenders Engineers/ Independent Engineer, Chartered Engineer Certification, Project Cost Vetting
+Project Appraisals and Monitoring, Valuation of Real Estate/Plant & Machinery, Technical Opinion & Audits
+Due Diligence on
+NBFC/HFC/Financial Institution, Portfolio Purchase/DA/PTC Due Diligence
+Business & Strategic Risk Advisory, Portfolio & Property papers verification, Charge assurance
+Platform Offerings (Retail)
+Field Visit
+Credit FI, Technical Valuation, Legal Check, Collections
+Augmented Checks through API services for Identity, Banking & ITR, Credit History, Fraud Risk, etc
+Value Added Services such as Green Home and ESG Consultancy
+Consulting Services for Operations Management and Policy
+Differentiating Factors for GFGC
+Experienced
+Team
+Pan-India Distribution
+World-Class
+Technology
+Governance Framework
+Execution Excellence
+Led by Unmatched Experience (1/2)
+Mr. Sushil Kumar Agarwal
+Founder & Managing Director
+24+ years of rich experience in the financial industry as an entrepreneur and leader with forte in creating & running different businesses with top-class execution
+Ex-Founder MD & CEO of Aavas Financiers Ltd., a publicly-listed affordable HFC, taking the company to 15000 Cr AUM under his leadership
+Prior experience in senior leadership roles with AU Small Finance Bank, ICICI Bank Limited, and Kotak Mahindra Prime Limited
+Awarded  EY Entrepreneur of The Year 2020  in the Financial Services category
+CA Gold Medallist and Merit Holder | Qualified Company Secretary
+Completed Owner/President Management Program (OPM) from Harvard Business School
+Chapter Chair of Young President Organization (YPO), Rajasthan Chapter
+Forte in creating & running different businesses with top-class execution
+Led by Unmatched Experience (2/2)
+Co-founders
+Mr. Abhishek Tiwari
+CEO, GFGC
+Mr. Arvind Tungaria
+COO, GFGC
+Mr. Apurv Bordia
+CTO, GFGC
+Mr. Naveen Sharma
+CIO, GFGC
+Mr. Rajeev Sardana
+Sr. Director Strategy & Planning, GFGC
+Mr. Satish K Chadha
+Advisor, GFGC
+Dr. Amit Kumar Dass
+CEO, GREEC
+Mr. Amit Jain
+CEO, GFTP
+Mr. Lokesh Rawat
+Partner, GFLS
+Led by Unmatched Experience
+Name
+Designation
+Total Yrs of Experience
+Previously worked with
+Dr. Amit Kumar Dass
+ICICI Bank, Indiabulls, Aavas Financiers Limited
+Amit Jain
+AU Bank, Religare, GE, Indiabulls
+Vinay Sharma
+Partner
+AU Bank, DHFL, RBL, DMI, MS, CHOLA
+Lokesh Rawat
+Partner
+Aavas Financiers and Capri Global
+Saurin Khatani
+Partner
+Utkarsh Jana SFB, Clix Capital, DHFL, HDB
+Harshit Jain
+Partner
+AU BANK, Tata Capital Housing, DHFL
+Anuj Lashkary
+Partner
+ICICI Bank
+Vikas Kumar Patel
+Partner
+Aavas Financiers Limited, Edelweiss Home Finance, TATA Capital
+Pankaj Narang
+Partner
+Umeed HFC, AU Bank, Indiabulls, HDB
+Rakesh Singh Tanwar
+Partner
+Aavas Financiers Limited
+Krishna Kant Tyagi
+Partner
+Aavas Financiers Limited, Namdev Home Finance
+Ankur Tyagi
+Partner
+ICICI Bank
+Chanchal Pravin
+Partner
+Aavas Financiers Limited
+Vignesh Somasundaram
+Partner
+Hitech Valuers LLP
+Abhilash Dubey
+Partner
+Globus Engineers, Aavas Financiers Limited
+Paras Sood
+Partner
+Formulic
+Anantapatnaikuni Sravankumar
+Partner
+Piramal Finance
+Nitin Kumar Chaubay
+Vice-President
+AU Bank
+Hardeep Singh Hora
+Vice-President
+Mahindra Finance, Aavas Financers Limited
+Suhej Patel Mohammed
+Vice-President
+ICICI Bank, TATA Capital, IIFL, Edelweiss Home Finance
+Rohit Vyas
+Vice-President
+IDFC, DHFL, CHOLA, VASTU
+Ashlesha Dattatraya Abanave
+Vice-President
+ICICI Bank, RBSA, Muthoot Home Finance, Creative Valuation
+Krovvidi Sriram Manohar
+Vice-President
+Practicing with High Court Vijaywada and Rajmundri
+Prafull Nagar
+Vice-President
+Aavas Financiers Limited
+Faizan Khan
+Vice-President
+Rashi Design Soluation, Laxmi India Finance
+Pulkit Singh
+Vice-President
+PS Architect & Consultants
+Somendra Jangid
+Vice-President
+Aavas Financiers Limited
+Kaivalya Ravindra Lohokare
+Vice-President
+Adv. Rohit and LLM From University of Law, London
+Chandradeep Arya
+Vice-President
+Formulic, USP Valuation
+Akash Sharma
+Vice-President
+AU Bank
+Vikas Ratan Kale
+Vice-President
+Patwardhan Consultants Private Limited, Piramal Capital and Housing Finance Limited
+Sachin Parmar
+Vice-President
+Harwani Engineers & Associates Private Limited
+Saloni Sharma
+Vice-President
+IIFL Home loans, SK Finance, Sewa Grh Ltd
+Tushar Kumar
+Vice-President
+Srihanu Law, AU Bank, Svatantra Microfinance, NAV Bank
+Ved Prakash Pareek
+Vice-President
+Aavas Financiers & Hero Housing & Dilip Sharma and associates
+Tanish Jaiswal
+Vice-President
+Apco Infratech Private Limited, Hinduja Housing Finance, Piramal Housing Finance
+Gemballi Satya Manikanta
+Vice-President
+RK Associates
+Chitrasen Kuntal
+Vice-President
+Aavas Financiers Limited
+Shyam Pancholi
+Vice-President
+Griham, AU Bank
+Himanshu Chhabra
+Vice-President
+Formulic, P&A Valutech
+Vikas Jangid
+Vice-President
+Formulic
+Vishal Singh Rao
+Vice-President
+HDFC, AU Bank
+Our Clientele
+Pan-India Distribution
+GFGC aims to have a unique pan-India setup unheard of in the vendor ecosystem which will help FIs to
+Reach under-penetrated locations
+Scale up with speed and low cost
+Manage a single vendor centrally for all locations with control, transparency & ease
+Have standardized process, quality and reliability across locations
+14000+ Pin Codes to be covered through 186 Locations
+19 Regional HQs
+31 Branch Offices
+136 Last-Mile Service Point
+Presence in 18 states
+Rajasthan
+Haryana
+Uttarakhand
+Delhi & NCR
+Karnataka
+Madhya Pradesh
+Uttar Pradesh
+Gujarat
+Maharashtra
+Punjab
+Telangana
+Andhra Pradesh
+Tamil Nadu
+Chhattisgarh
+West Bengal
+Bihar
+Kerala
+Odisha
+Our Branch Locations
+State
+Select State
+City
+Select City
+World-Class Technology & Governance Framework
+GFGC has partnered with Deloitte for developing a best-in-class platform for its services
+The platform is being developed with the industry-leading platform Salesforce at its heart, integrated with multiple software and API services
+This will enable GFGCs internal team to work completely online in sync with real-time services and also help FIs digitize their outsourced services through integration with the GFGC system
+Striving for service excellence, the system architecture has been meticulously designed and benchmarked with the best service provider applications across various industries
+Additionally, the system is compliant with all regulations including Data Security, Data Privacy, IT, RBI and other regulations applicable for FIs from Day 1
+With the system, FIs get complete transparency and tracking of their transactions with the comfort of meeting all data compliance requirements
+Execution Excellence
+With the same experience, GFGC s
+corporate structure has been put in place from Day 1 to ensure effective execution, control and oversight
+GFGC s founding team has a proven track record of scaling businesses in the lending industry from incubation to large scale (over 1 lakh transactions)
+The structure reinforces SOPs, checks and balances essential for execution excellence in the domain and also provides multiple monitoring and escalation points
+Our Vision
+At GFGC, our vision is to revolutionize the industry by creating new benchmarks of service and technology, along with solving a large governance & compliance problem of the industry
+Introduce  Quick Commerce  to BFSI
+Un-paralleled TAT for onboarding & Services
+TAT for Field Services vis- -vis distance from office
+Within 3 kms   1 Hr
+Within 25 kms   6-8 Hrs
+25 to 50 Kms   24 Hrs
+Above 50 Kms   48 Hrs
+1 Hr TAT for onboarding of FI Partner with initiation of service
+1 Hr TAT for adding a service (available through APIs) on our platform and make it available to FI Partners
+1 Hr TAT for any modifications handling
+Build India s Largest Consulting & Processing Capability
+One-stop solution provider for all services across India
+On Field and Digital
+Strategic and Operational
+Process and Technology
+Focus on Execution with High Quality and Speed
+Additional Value to FI Partners based on learnings of the Leadership Team & Partners
+Aim to set-up a Global Consulting Center and grow to
+1 Lakh+ employees
+with execution expertise across domains
+Our Offices
+Ludhiana
+Zirakpur
+Raipur
+Surat
+Pune
+Agra
+Bikaner
+Mumbai
+Dehradun
+Karnal
+Lucknow
+Beawar
+Varanasi
+Udaipur
+Jodhpur
+Bangalore
+Rudhrapur
+Rajkot
+Ahmedabad
+Indore
+Hyderabad
+Bhopal
+Tirupati
+Ludhiana
+Ghaziabad
+Raipur
+Bikaner
+Mumbai
+Zirakpur
+Dehradun
+Udaipur
+Ahmedabad
+Hyderabad
+Bangalore
+Chennai
+Karnal
+Indore
+Jodhpur
+Pune
+Surat
+Lucknow
+Beawar
+Rudhrapur
+Agra
+Bhopal
+Tirupati
+Rajkot
+Varanasi
+Vijaywada
+Bhubaneshwar
+Disclaimers
+GFGC or Greenfinch refers to Greenfinch Global Consulting Private Limited, its network of firms and related entities for the purpose of this Presentation
+This presentation is intended for information purposes only, is shared on a confidential basis and is an expression of strategy that may be subject to change without notice. Recipients/attendees of this presentation agree that they will keep confidential all non-public information contained herein; and will not copy/reproduce/distribute this Presentation or information herein to any other party, in whole or in part
+Certain information in this Presentation has been obtained from third-party and publicly available sources. While such sources are reliable, GFGC and its entities do not assume responsibility for accuracy or completeness of such information and does not undertake any obligation to update the information contained herein as of any future date
+The information mentioned in the Presentation is subject to change without prior notice. The Presentation is for discussion purpose only and should not be assumed to be a complete description of GFGC or to contain all the information required by potential partners
+This Presentation contains certain performance goals and benchmark information related to GFGC and its operations. Please note that actual results may vary. The Presentation also contains forward looking statements. Words such as  will ,  aim ,  vision ,  outlook  and other similar expressions are intended to identify such forward looking statements. Forward-looking statements are based on a number of assumptions as to future events that are inherently uncertain and subjective and no representation or warranty is made by GFGC, its network firms and related entities to whether such assumptions or projections will prove to be accurate
+None of GFGC, its network firms or related entities shall be responsible for any loss whatsoever sustained by any person or entity by reason of access to, use of or reliance on, this material. By using this material or any information contained in it, the user accepts this entire notice and terms of use
+Uttar Pradesh
+Agra
+Aligarh Hathras
+Ayodhya
+Azamgarh
+Bareilly
+Fetehpur
+Raibarelli
+Ghaziabad
+Gorakhpur
+Kanpur
+Lucknow
+Meerut
+Moradabad
+Prayagraj
+Saharanpur
+Sitapur
+Varanasi
+Uttar Pradesh
+Agra
+Aligarh Hathras
+Ayodhya
+Azamgarh
+Bareilly
+Fetehpur
+Raibarelli
+Ghaziabad
+Gorakhpur
+Kanpur
+Lucknow
+Meerut
+Moradabad
+Prayagraj
+Saharanpur
+Sitapur
+Varanasi
+Uttar Pradesh
+Agra
+Aligarh Hathras
+Ayodhya
+Azamgarh
+Bareilly
+Fetehpur
+Raibarelli
+Ghaziabad
+Gorakhpur
+Kanpur
+Lucknow
+Meerut
+Moradabad
+Prayagraj
+Saharanpur
+Sitapur
+Varanasi
+Uttar Pradesh
+Agra
+Aligarh Hathras
+Ayodhya
+Azamgarh
+Bareilly
+Fetehpur
+Raibarelli
+Ghaziabad
+Gorakhpur
+Kanpur
+Lucknow
+Meerut
+Moradabad
+Prayagraj
+Saharanpur
+Sitapur
+Varanasi
+Uttar Pradesh
+Agra
+Aligarh Hathras
+Ayodhya
+Azamgarh
+Bareilly
+Fetehpur
+Raibarelli
+Ghaziabad
+Gorakhpur
+Kanpur
+Lucknow
+Meerut
+Moradabad
+Prayagraj
+Saharanpur
+Sitapur
+Varanasi
+Mr. Abhishek Tiwari
+CEO, GFGC
+24+ years of experience in retail lending & insurance distribution
+Previously managed insurance with 2000 Cr premium book at AU Bank
+Prior experience with ICICI Bank
+Chartered Accountant & Law Graduate
+Arvind Tungaria
+COO, GFGC
+20+ years of experience in secured lending and operations
+Previously, National Business Manager for Secured Business Loans (Retail) at AU Bank where he built 5000 Cr SME book
+Prior experience with ICICI Bank, Ruchi Soya & Gujarat Ambuja Exports Ltd
+Chartered Accountant & AMFI certified
+Mr. Apurv Bordia
+CTO, GFGC
+16+ years of experience in technology companies
+Successfully built and exited multiple tech ventures
+MIS in Information Technologies from University of Connecticut, USA. (Major in Informational systems, credit card encryption)
+Mr. Naveen Sharma
+CIO, GFGC
+A Man of Many Hats   Dr. Naveen is not just an entrepreneur; he s a visionary, a writer, a mentor, and a pioneer in the tech industry. With a remarkable portfolio of successful startups ranging from technology companies to Data Centers worldwide, he s a figure who exemplifies innovation and leadership
+Academic Prowess   Dr. Naveen is impressively qualified, holding a Science degree, a law degree specializing in Cyber Law, a Master s in Technology, and a Doctorate in Computer Science. His multidisciplinary background equips him with an exceptional skill set, uniquely positioning him to address challenges in a myriad of industries
+Early Beginnings   The tech wizardry started early for Dr. Naveen. Back in 1996, he developed his first commercial software aimed at predicting stock market trends. A year later, he expanded his scope to web development, delivering a commercial website for a customer in the IT sector
+Trailblazing Innovations   Dr. Naveen s impact on the industry is far-reaching. From developing an enterprise Intranet for Red Hat, one of the US s leading companies in open-source technologies, to creating an AI/ML-based Automated Health Claim Settlement System for a leading US insurance firm, his contributions are pioneering
+Data Centers & Cloud Computing   Recognizing the growing need for data storage in South Asia, Dr. Naveen designed and established the region s first privately-owned Data Centers in Rajasthan India. Not stopping there, he also developed and India s first Local Language Cloud, positioning himself as a leader in Cloud Computing technologies
+Crypto Innovator   In the dynamic world of cryptocurrencies, Dr. Naveen has built software solutions for North America s largest Bitcoin mining data center. His recent venture includes the design and development of a Crypto ATM, a sign of his continuous engagement with cutting-edge technology
+Mr. Rajeev Sardana
+Sr. Director Strategy & Planning, GFGC
+30+ years of experience in secured lending, mortgages, and housing finance operations focusing on underwriting policies, housing finance operations, growth strategies and performance enhancement
+Additional Director (Non-Executive Independent Director) in Poonawalla Fincorp Limited. Non-Executive Director at Delta Brac Housing Finance Corporation and advisor at HDFC Education & Development Services Ltd and current advisor at HDFC Sales Ltd
+Involved in Audit, Nomination and Remuneration, Risk Management, Whistleblower policies and Fraud monitoring companies, member of the Asset-Liability Committee(ALCO) for interest rate decisions
+Consulted for the IFC/HDFC team in establishing housing finance institutions in Bangladesh, Sri Lanka, Pakistan and Tanzania
+Mr. Satish K Chadha
+Advisor, GFGC
+40+ years of experience in Banking & Finance, law and mortgage financing
+Prior experience with NHB as Director-Legal
+Chartered Accountant & Law Graduate
+Dr. Amit Kumar Dass
+CEO, GREEC
+27+ years of experience with Senior Mgmt. Roles in ICICI Bank & Aavas Financiers
+Expertise in Property Advisory services leading pan-India teams
+Pioneer in Green Homes | Panellist in Green India Drive with IFC
+PhD, M.E. & B.E. in Civil Engineering
+Mr. Amit Jain
+CEO, GFTP
+21+ years of experience in Banking & Finance sector
+Having experience of Credit management and managing Secured Business Loans portfolio of 15000 crore AUM
+Prior experience with AU Bank and Religare
+Chartered Accountant
+Mr. Lokesh Rawat
+Partner, GFLS
+14+ years of experience in Legal mortgage service sector
+Expert in property laws, legal scrutiny, due diligence, compliance
+Prior experience with Aavas Financiers, overseeing the legal aspects of property-backed lending
+Advance Management Program from IIM Indore and LLB from Rajasthan University
+Scroll to Top
+
+here is the greenfinch website URL : https://www.gfgc.com/

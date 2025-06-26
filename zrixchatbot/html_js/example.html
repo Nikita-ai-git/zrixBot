@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Example Website with Chatbot</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        
+        header {
+            text-align: center;
+            background: white;
+            padding: 60px 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            margin-bottom: 40px;
+        }
+        
+        h1 {
+            color: #333;
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+        
+        .subtitle {
+            font-size: 1.3rem;
+            color: #666;
+            margin-bottom: 30px;
+        }
+        
+        .content {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            margin-bottom: 40px;
+        }
+        
+        .integration-example {
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 15px;
+            margin: 30px 0;
+        }
+        
+        .code-block {
+            background: #2d3748;
+            color: #e2e8f0;
+            padding: 20px;
+            border-radius: 10px;
+            font-family: 'Monaco', 'Courier New', monospace;
+            overflow-x: auto;
+            margin: 20px 0;
+        }
+        
+        .highlight {
+            background: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+            padding: 20px;
+            border-radius: 15px;
+            margin: 20px 0;
+        }
+        
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin: 40px 0;
+        }
+        
+        .feature-card {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        
+        .feature-icon {
+            font-size: 3rem;
+            color: #667eea;
+            margin-bottom: 20px;
+        }
+        
+        .btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 30px;
+            font-weight: bold;
+            transition: transform 0.3s ease;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>My Awesome Website</h1>
+            <p class="subtitle">This is an example website demonstrating the chatbot integration</p>
+            <a href="#" class="btn">Get Started</a>
+        </header>
+        
+        <div class="content">
+            <h2>How to Integrate the Chatbot</h2>
+            <p>Adding our chatbot to your website is incredibly simple. Just follow these steps:</p>
+              <div class="integration-example">
+                <h3>Step 1: Basic Integration (Local File)</h3>
+                <p>Add this code before your closing &lt;/body&gt; tag:</p>
+                <div class="code-block">
+&lt;script src="chatbot.js"&gt;&lt;/script&gt;
+                </div>
+            </div>
+              <div class="integration-example">
+                <h3>Step 1: CDN Integration (Recommended)</h3>
+                <p>For optimal performance, use CDN hosting:</p>
+                <div class="code-block">
+&lt;!-- CloudFlare CDN --&gt;<br>
+&lt;script src="https://cdn.yoursite.com/chatbot.js"&gt;&lt;/script&gt;<br><br>
+&lt;!-- AWS CloudFront --&gt;<br>
+&lt;script src="https://d1234567890.cloudfront.net/chatbot.js"&gt;&lt;/script&gt;<br><br>
+&lt;!-- jsDelivr (GitHub-based CDN) --&gt;<br>
+&lt;script src="https://cdn.jsdelivr.net/gh/username/repo@main/chatbot.js"&gt;&lt;/script&gt;<br><br>
+&lt;!-- unpkg CDN --&gt;<br>
+&lt;script src="https://unpkg.com/your-package@latest/chatbot.js"&gt;&lt;/script&gt;
+                </div>
+            </div>            <div class="integration-example">
+                <h3>Step 2: Optional Customization</h3>
+                <p>Customize the chatbot by adding configuration before the script:</p>
+                <div class="code-block">
+&lt;script&gt;
+    window.ChatbotConfig = {
+        primaryColor: '#667eea',
+        secondaryColor: '#764ba2',
+        title: 'Customer Support',
+        avatarText: 'CS',
+        greeting: 'Hi! How can we help you today?',
+        position: 'bottom-right',
+        autoOpen: false,
+        showNotification: true
+    };
+&lt;/script&gt;
+&lt;script src="https://cdn.yoursite.com/chatbot.js"&gt;&lt;/script&gt;
+                </div>
+            </div>
+            
+            <div class="integration-example">
+                <h3>CDN Setup Guide</h3>
+                <p>Choose your preferred CDN service:</p>
+                <div class="code-block">
+# CloudFlare Setup<br>
+1. Sign up at cloudflare.com<br>
+2. Add your domain<br>
+3. Upload chatbot.js to your origin server<br>
+4. Use: https://cdn.yoursite.com/chatbot.js<br><br>
+# AWS CloudFront Setup<br>
+1. Create S3 bucket with chatbot.js<br>
+2. Create CloudFront distribution<br>
+3. Use: https://d1234567890.cloudfront.net/chatbot.js<br><br>
+# jsDelivr (Free GitHub CDN)<br>
+1. Upload to GitHub repository<br>
+2. Use: https://cdn.jsdelivr.net/gh/user/repo@main/chatbot.js
+                </div>
+            </div>
+            
+            <div class="integration-example">
+                <h3>Cross-Origin Setup (CORS)</h3>
+                <p>For remote servers, ensure CORS headers are set:</p>
+                <div class="code-block">
+# Apache (.htaccess)<br>
+Header set Access-Control-Allow-Origin "*"<br>
+Header set Access-Control-Allow-Methods "GET, OPTIONS"<br><br>
+# Nginx<br>
+add_header Access-Control-Allow-Origin *;<br>
+add_header Access-Control-Allow-Methods 'GET, OPTIONS';<br><br>
+# Node.js/Express<br>
+app.use((req, res, next) => {<br>
+&nbsp;&nbsp;res.header('Access-Control-Allow-Origin', '*');<br>
+&nbsp;&nbsp;next();<br>
+});
+                </div>
+            </div>
+            
+            <div class="highlight">
+                <h3>🎉 That's it!</h3>
+                <p>Your chatbot is now live and ready to engage with your visitors. Try clicking the chat button in the bottom-right corner!</p>
+            </div>
+            
+            <h2>Remote Hosting Options</h2>
+            <div class="feature-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🖥️</div>
+                    <h3>Linux Server</h3>
+                    <p>Host on your own Linux server with Apache/Nginx</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">☁️</div>
+                    <h3>CDN Services</h3>
+                    <p>Use CloudFlare, AWS CloudFront, or similar CDNs</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">📦</div>
+                    <h3>GitHub Pages</h3>
+                    <p>Free hosting via GitHub Pages or similar services</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">🚀</div>
+                    <h3>Cloud Storage</h3>
+                    <p>AWS S3, Google Cloud Storage with public access</p>
+                </div>
+            </div>
+            
+            <h2>Configuration Options</h2>
+            <div class="feature-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🎨</div>
+                    <h3>Colors</h3>
+                    <p>Customize primary and secondary colors to match your brand</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">📱</div>
+                    <h3>Position</h3>
+                    <p>Choose between bottom-right or bottom-left positioning</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">💬</div>
+                    <h3>Messages</h3>
+                    <p>Set custom title, avatar text, and greeting messages</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">⚡</div>
+                    <h3>Behavior</h3>
+                    <p>Control auto-open and notification settings</p>
+                </div>
+            </div>
+            
+            <h2>Features</h2>
+            <ul>
+                <li>✅ Plug-and-play integration with just one script tag</li>
+                <li>✅ Fully responsive design that works on all devices</li>
+                <li>✅ Customizable colors and branding</li>
+                <li>✅ Smooth animations and transitions</li>
+                <li>✅ Built-in typing indicators</li>
+                <li>✅ No external dependencies (except Font Awesome for icons)</li>
+                <li>✅ Clean, modern UI design</li>
+                <li>✅ Easy to extend with custom responses</li>
+            </ul>
+        </div>
+    </div>
+    
+    <!-- Chatbot Integration Example -->
+    <script>
+        // Optional: Customize the chatbot
+        window.ChatbotConfig = {
+            primaryColor: '#667eea',
+            secondaryColor: '#764ba2',
+            title: 'GFGC Customer Support',
+            avatarText: 'CS',
+            greeting: 'Hi! Welcome to our website. How can we help you today?',
+            position: 'bottom-right',
+            autoOpen: false,
+            showNotification: true
+        };
+    </script>
+    <!-- Load the chatbot script -->
+    <script src="chatbot.js"></script>
+</body>
+</html>
